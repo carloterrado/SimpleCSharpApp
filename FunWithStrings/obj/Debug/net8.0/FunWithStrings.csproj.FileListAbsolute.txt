@@ -12,3 +12,4 @@ C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\FunWithStrings\obj\Debug\net
 C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.pdb
 C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.genruntimeconfig.cache
 C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\FunWithStrings\obj\Debug\net8.0\ref\FunWithStrings.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.sourcelink.json
