@@ -1,0 +1,14 @@
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\bin\Debug\net8.0\BasicConsoleIO.exe
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\bin\Debug\net8.0\BasicConsoleIO.deps.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\bin\Debug\net8.0\BasicConsoleIO.runtimeconfig.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\bin\Debug\net8.0\BasicConsoleIO.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\bin\Debug\net8.0\BasicConsoleIO.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.AssemblyInfoInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.AssemblyInfo.cs
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\refint\BasicConsoleIO.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\BasicConsoleIO.genruntimeconfig.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicConsoleIO\obj\Debug\net8.0\ref\BasicConsoleIO.dll

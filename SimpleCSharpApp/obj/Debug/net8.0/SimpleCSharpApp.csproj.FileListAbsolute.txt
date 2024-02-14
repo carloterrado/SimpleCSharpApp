@@ -1,0 +1,14 @@
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.exe
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.deps.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\refint\SimpleCSharpApp.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\ref\SimpleCSharpApp.dll

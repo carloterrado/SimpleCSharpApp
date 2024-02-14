@@ -1,0 +1,14 @@
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.exe
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.deps.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.runtimeconfig.json
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfoInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfo.cs
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\refint\BasicDataTypes.dll
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.genruntimeconfig.cache
+C:\Users\Carlo Terrado\Documents\C#\SimpleCSharpApp\BasicDataTypes\obj\Debug\net8.0\ref\BasicDataTypes.dll
